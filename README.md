@@ -31,7 +31,7 @@
 ### 2. GET PAIRING CODE SESSION
 
 <a href="https://raizenbot-webpair.onrender.com">
-    <img src="https://i.imgur.com/pEMNzhf.mp4" alt="Pair Code" width="150" height="150">
+    <img src="https://i.imgur.com/IrDqzlQ" alt="Pair Code" width="150" height="150">
 </a>
 
 
