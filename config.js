@@ -42,7 +42,7 @@ global.scan = "https://kerm-session-39mi.onrender.com/wasiqr";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "9cgxAIrS#akCcy9uV5GrecChroQHYw4FzLO2pAEuWp2h4sUGkQeI"
+  "PUT YOUR SESSION ID"
 module.exports = {
   menu: process.env.MENU || "1",
   HANDLERS: process.env.PREFIX || "#",
