@@ -30,25 +30,9 @@
 
 ### 2. GET PAIRING CODE SESSION
 
-<div style="
-  background-color: #1a1f71; 
-  color: white; 
-  padding: 20px; 
-  text-align: center; 
-  border-radius: 20px; 
-  transition: transform 0.3s ease, background-color 0.3s ease;">
-  
-  <a href="https://raizenbot-webpair.onrender.com" style="
-    color: white; 
-    text-decoration: none; 
-    display: inline-block; 
-    font-family: 'Arial', sans-serif; 
-    font-size: 36px; 
-    font-weight: bold; 
-    margin: 0;">
-    GET PAIR CODE
-  </a>
-</div>
+<a href="https://raizenbot-webpair.onrender.com">
+    <img src="https://i.imgur.com/pEMNzhf.mp4" alt="Pair Code" width="150" height="150">
+</a>
 
 
 EN COURS DE DEVELLOPEMENT...
